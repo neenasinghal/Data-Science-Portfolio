@@ -1,4 +1,4 @@
-# **Customer Churn Prediction for a Telecommunications Company**
+## **Customer Churn Prediction for a Telecommunications Company**
 
 **Objective:**
 *   Build a model that predicts the likelihood of telecommunication customers ending their subscription (churning) based on their historical data (e.g. gender, demographic, account, service usage, etc…)
