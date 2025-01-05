@@ -1,4 +1,4 @@
-# **Supply Chain Demand Optimization**
+## **Supply Chain Demand Optimization**
 **Objective:**
 *   Optimize a supply chain process, reducing cost and improving efficiency. 
 *   This can be done in many ways such as demand forecasting or inventory management.
