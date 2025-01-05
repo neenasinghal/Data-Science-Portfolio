@@ -4,8 +4,7 @@ Repository containing portfolio of data science projects completed by me for aca
 ## Contents
 
 - ### Machine Learning
-	- [Customer Churn Prediction](https://github.com/neenasinghal/Data-Science-Portfolio/tree/main/Customer Churn Prediction/Customer Churn Prediction.ipynb): A model that predicts the likelihood of telecommunication customers ending their subscription (churning) based on their historical data (e.g. gender, demographic, account, service usage, etc…). This prediction model can help a marketing team devise targeted interventions to retain customers at risk of churning, which might involve offering special promotions, addressing service pain points, etc
- - [Predicting Boston Housing Prices](https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb)
+	- [Customer Churn Prediction](https://github.com/neenasinghal/Data-Science-Portfolio/main/Customer Churn Prediction/Customer Churn Prediction.ipynb): A model that predicts the likelihood of telecommunication customers ending their subscription (churning) based on their historical data (e.g. gender, demographic, account, service usage, etc…). This prediction model can help a marketing team devise targeted interventions to retain customers at risk of churning, which might involve offering special promotions, addressing service pain points, etc
 	
 - ### Data Analysis and Visualisation
 	
