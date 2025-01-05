@@ -1,4 +1,4 @@
-# **Customer Insights for Marketing Campaign:**
+## **Customer Insights for Marketing Campaign:**
 **Objective:**
 *   Segment customers from a Superstore based on various attributes such as  demographics and purchasing behavior.
 *   Provide insights to help a marketing team craft personalized strategies to increase sales and customer reactivation.
